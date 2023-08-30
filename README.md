@@ -29,7 +29,7 @@ Enable Pixel Ui and Some Exclusive Features.<br>
 - Windows Subsystem Android
 
 ### Pixelify Sub Modules <br>
-Is Pixelify not working correctly or too big for your phone, Pixelify provide some sub module for standalone features
+If Pixelify is not working correctly or too big for your phone, Pixelify has provided some sub module for standalone features.
 - Call Screening 
 - Now Playing (Android System Inteligence required)
 - Google Hotword
@@ -37,8 +37,8 @@ Is Pixelify not working correctly or too big for your phone, Pixelify provide so
 - Google Bootanimation
 
 ### Installation
-- Recommend to use magisk v24 or above from Pixelify v2
-- If Volume keys are working then ignore no_vk files otherwise check Installation without Volume Keys
+- Recommended to use magisk v24 or above from Pixelify v2
+- **If Volume keys are working then ignore no_vk files otherwise check Installation without Volume Keys**
 - Enable zygisk
 - Flash Module
 - Enjoy
@@ -47,7 +47,7 @@ Is Pixelify not working correctly or too big for your phone, Pixelify provide so
 - Use packages with Pixelify-${version}-no_VK.zip
 - Place config.prop to internal storage>Pixelify (/sdcard/Pixelify/config.prop)
 - Edit prop according what you want to select
-- (If you have any problem placing config.prop there then you also can extract and update config.prop inside the packages it automatically use it.) 
+- (If you have any problem placing config.prop there then you can also extract and update config.prop inside the packages it automatically use.) 
 
 ### Zygisk and Riru spoofing configuration
 - Pixel 5:- Google TTS, Google Play services, Pixel Buds, Nothing Smart Center
@@ -63,9 +63,9 @@ Is Pixelify not working correctly or too big for your phone, Pixelify provide so
 - Works with most of Android version (Nougat to 13)
 - Uses Dynamic spoofing (Riru & Zygisk) to only Google apps to prevent crashes and other issues
 - Provides most of Pixel Features
-- Installation is can be optional
-- Supports (720p,1080p,1440p) Google bootanimation
-- Allows to created backup for online pixelify packages
+- Installation can be optional
+- Supports (720p,1080p,1440p) Google boot animation
+- Allows for backup of online pixelify packages
 - Also provides some unreleased Pixel Features
 - Create Google keyboard, Google app, Google Text to speech, Google Dialer as system app if not installed
 - Dynamic Permission generation of apps installed by pixelify
@@ -80,7 +80,7 @@ Is Pixelify not working correctly or too big for your phone, Pixelify provide so
 -   Magic Eraser
 -   Google Dialer Direct Call (12+)
 -   New At a Glance feature (12+ & Dec+ Patch) 
--   Google Quick Pharse*
+-   Google Quick Phrases*
 -   Google Next Generation Assistant Typing (Next Generation Assistant Required)*
 -   Call Caption Typing (12+)
 -   Live Captions different language
@@ -120,14 +120,14 @@ Is Pixelify not working correctly or too big for your phone, Pixelify provide so
 ### Call Screening Supported languages other than English US <br>
 - Italian (IT)
 - Japanese (JP)
-- Spain (ES)
-- France (FR)
-- Germany (DE)
+- Spanish (ES)
+- French (FR)
+- German (DE)
 
 ## Contribute to project
 - Reporting bugs with logs
 - Feature Requests
-- Supporting other persons on issues or telegram group
+- Supporting other persons on issues or in telegram group
 - Creating pull request to enable new feature or code improvements
 - Donation
 
